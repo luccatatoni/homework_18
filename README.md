@@ -6,6 +6,8 @@ Explain the configuration of the network, such as it's blocktime, chain ID, acco
 Explain how to connect MyCrypto to your network and demonstrate (via screenshots and steps) and send a transaction.
 
 
+![Print of terminal set up](screenshots/terminal.png)
+
 1. Dependencies
 This assignment uses Go Ethereum (GETH) as a test net. It is needed to download the files and set up properly.
 
